@@ -8,8 +8,12 @@ DonDie is a web application that allows medical professionals to predict the lev
  [Video](https://www.loom.com/share/2ddd3e6042214261b6bc2f218b731c12?sid=c4ef45dc-1461-43f2-b4e7-4b6c4d2875aa)
 
 ### Screen Shots: 
+![Screenshot from 2024-07-30 17-57-54](https://github.com/user-attachments/assets/d074f0d9-91da-499c-a350-4dcc9c468d9b)
+![Screenshot from 2024-07-30 17-55-56](https://github.com/user-attachments/assets/dce2c7ed-1511-4e2a-9997-f205da27e121)
+![Screenshot from 2024-07-30 17-56-39](https://github.com/user-attachments/assets/065cf153-cd41-462f-ad3e-0f5923337de6)
 
-infratructure:
+
+### infratructure:
 This app uses Tensorflow 2.17.0 and Flask 3.0.3 to deliver a beautiful and intuitive user experience. the sleek minimalistic design with birant colors providing a concise and familiar experience. additional dependencies are in the [requirements.txt](requirements.txt) file. 
 
 clone the repository:
