@@ -4,7 +4,10 @@
 
 DonDie is a web application that allows medical professionals to predict the level of heart failure risk a patient has. the objective is to improve medical diagnosis to reduce errors that may lead to a loss of lives.
 
-Demo: [Video](https://www.loom.com/share/2ddd3e6042214261b6bc2f218b731c12?sid=c4ef45dc-1461-43f2-b4e7-4b6c4d2875aa)
+### Demo:
+ [Video](https://www.loom.com/share/2ddd3e6042214261b6bc2f218b731c12?sid=c4ef45dc-1461-43f2-b4e7-4b6c4d2875aa)
+
+### Screen Shots: 
 
 infratructure:
 This app uses Tensorflow 2.17.0 and Flask 3.0.3 to deliver a beautiful and intuitive user experience. the sleek minimalistic design with birant colors providing a concise and familiar experience. additional dependencies are in the [requirements.txt](requirements.txt) file. 
