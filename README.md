@@ -1,6 +1,6 @@
 # Machine Learning Operations:System Deployment
 
-project: DonDie
+## project: DonDie.ai
 
 DonDie is a web application that allows medical professionals to predict the level of heart failure risk a patient has. the objective is to improve medical diagnosis to reduce errors that may lead to a loss of lives.
 
